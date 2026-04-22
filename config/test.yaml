@@ -1,0 +1,27 @@
+app:
+  name: game-server
+  mode: test
+  port: 8081
+
+log:
+  level: info
+  path: ./logs/server.log
+  max_size: 100
+  max_backups: 10
+  max_age: 7
+  compress: true
+
+mysql:
+  host: localhost
+  port: 3306
+  username: root
+  password: fox114514
+  database: game_server
+
+redis:
+  addr: localhost:6379
+  password: ""
+  db: 0
+
+kafka:
+  addr: localhost:9092

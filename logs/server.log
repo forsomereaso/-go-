@@ -1,0 +1,76 @@
+2026-04-20 23:31:09	ERROR	mysql/mysql.go:33	mysql连接失败	{"error": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)"}
+2026-04-20 23:32:12	ERROR	mysql/mysql.go:33	mysql连接失败	{"error": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+2026-04-20 23:33:17	ERROR	mysql/mysql.go:33	mysql连接失败	{"error": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+2026-04-21 19:48:58	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-21 19:48:58	ERROR	redis/redis.go:29	redis连接失败	{"error": "dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it."}
+2026-04-21 19:50:20	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-21 19:50:20	INFO	go/main.go:26	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 13:46:00	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-22 13:46:00	INFO	redis/redis.go:33	Redis连接成功
+2026-04-22 13:46:00	INFO	go/main.go:27	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 13:47:42	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-22 13:47:42	INFO	redis/redis.go:33	Redis连接成功
+2026-04-22 13:47:42	INFO	go/main.go:27	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 13:48:21	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-22 13:48:21	INFO	redis/redis.go:33	Redis连接成功
+2026-04-22 13:48:21	INFO	go/main.go:27	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 13:49:21	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-22 13:49:21	INFO	redis/redis.go:33	Redis连接成功
+2026-04-22 13:49:21	INFO	go/main.go:27	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 13:50:49	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-22 13:50:49	INFO	redis/redis.go:33	Redis连接成功
+2026-04-22 13:50:49	INFO	go/main.go:27	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 13:51:30	INFO	mysql/mysql.go:44	MySQL连接成功
+2026-04-22 13:51:30	INFO	redis/redis.go:33	Redis连接成功
+2026-04-22 13:51:30	INFO	go/main.go:27	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 13:56:57	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 13:56:57	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 13:56:57	INFO	go/main.go:27	游戏服务器基础基建全部启动完成	{"环境": "test", "端口": 8081}
+2026-04-22 14:02:40	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 14:02:40	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 14:02:40	INFO	go/main.go:42	Gin网关启动成功	{"端口": 8081}
+2026-04-22 14:04:15	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 14:04:15	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 14:04:15	INFO	go/main.go:42	Gin网关启动成功	{"端口": 8081}
+2026-04-22 14:49:01	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 14:49:01	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 14:49:01	INFO	go/main.go:42	Gin网关启动成功	{"端口": 8081}
+2026-04-22 14:49:40	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 14:49:40	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 14:49:40	INFO	go/main.go:42	Gin网关启动成功	{"端口": 8081}
+2026-04-22 14:50:20	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 14:50:20	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 14:50:20	INFO	go/main.go:42	Gin网关启动成功	{"端口": 8081}
+2026-04-22 14:59:21	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 14:59:21	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 14:59:21	INFO	go/main.go:42	Gin网关启动成功	{"端口": 8081}
+2026-04-22 15:09:38	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 15:09:38	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 15:09:38	INFO	go/main.go:42	Gin网关启动成功	{"端口": 8081}
+2026-04-22 15:17:58	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 15:17:58	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 15:17:58	INFO	go/main.go:55	游戏服务器全部启动成功	{"端口": 8081}
+2026-04-22 15:48:19	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 15:48:19	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 15:48:19	INFO	go/main.go:58	游戏服务器全部启动成功	{"端口": 8081}
+2026-04-22 15:56:00	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 15:56:00	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 15:56:00	ERROR	kafka/kafka.go:22	Kafka连接失败	{"error": "kafka: client has run out of available brokers to talk to: dial tcp [::1]:9092: connectex: No connection could be made because the target machine actively refused it."}
+2026-04-22 15:56:00	WARN	kafka/kafka.go:24	Kafka连接失败，服务将继续运行，但匹配功能可能受限
+2026-04-22 15:56:00	INFO	go/main.go:59	游戏服务器全部启动成功	{"端口": 8081}
+2026-04-22 16:02:17	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 16:02:17	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 16:02:18	ERROR	kafka/kafka.go:22	Kafka连接失败	{"error": "kafka: client has run out of available brokers to talk to: dial tcp [::1]:9092: connectex: No connection could be made because the target machine actively refused it."}
+2026-04-22 16:02:18	WARN	kafka/kafka.go:24	Kafka连接失败，服务将继续运行，但匹配功能可能受限
+2026-04-22 16:02:18	INFO	go/main.go:59	游戏服务器全部启动成功	{"端口": 8081}
+2026-04-22 16:10:04	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 16:10:04	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 16:10:05	ERROR	kafka/kafka.go:22	Kafka连接失败	{"error": "kafka: client has run out of available brokers to talk to: dial tcp [::1]:9092: connectex: No connection could be made because the target machine actively refused it."}
+2026-04-22 16:10:05	WARN	kafka/kafka.go:24	Kafka连接失败，服务将继续运行，但匹配功能可能受限
+2026-04-22 16:10:05	INFO	go/main.go:59	游戏服务器全部启动成功	{"端口": 8081}
+2026-04-22 16:14:18	INFO	mysql/mysql.go:43	MySQL连接成功
+2026-04-22 16:14:18	INFO	redis/redis.go:32	Redis连接成功
+2026-04-22 16:14:19	ERROR	kafka/kafka.go:22	Kafka连接失败	{"error": "kafka: client has run out of available brokers to talk to: dial tcp [::1]:9092: connectex: No connection could be made because the target machine actively refused it."}
+2026-04-22 16:14:19	WARN	kafka/kafka.go:24	Kafka连接失败，服务将继续运行，但匹配功能可能受限
+2026-04-22 16:14:19	INFO	go/main.go:59	游戏服务器全部启动成功	{"端口": 8081}
+2026-04-22 16:42:49	ERROR	mysql/mysql.go:33	mysql连接失败	{"error": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
